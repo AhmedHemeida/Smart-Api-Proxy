@@ -11,7 +11,6 @@ This is a simple Node.js backend project that proxies external API requests and 
 - **ioredis** – Redis client for Node.js
 - **express-rate-limit** – To limit the number of requests per IP
 - **Axios** – To fetch external APIs
-- **dotenv** – To manage environment variables
 
 ---
 
