@@ -54,7 +54,7 @@ npm start
 
 ---
 
-##📦 Example Endpoint
+## 📦 Example Endpoint
 
 GET http://localhost:3000/proxy
 
