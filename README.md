@@ -29,8 +29,8 @@ This is a simple Node.js backend project that proxies external API requests and 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/redis-proxy-server.git
-cd redis-proxy-server
+git clone https://github.com/AhmedHemeida/Smart-Api-Proxy.git
+cd Smart-Api-Proxy
 
 ```
 
