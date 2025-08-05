@@ -52,6 +52,8 @@ docker run --name my-redis -p 6379:6379 -d redis
 npm start
 ```
 
+---
+
 ##📦 Example Endpoint
 
 GET http://localhost:3000/proxy
